@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: rgb(0, 12, 24);
+    font-family: helvetica;
+}
+h1 {
+    display: block;
+    background-color: rgba(28, 141, 247, 0.138);
+    padding: 0.1rem;
+    font-size: 32;
+    color: #0dbaea;
+}
+h3 {
+    font-size: 16;
+    color: rgb(15, 119, 255);
+}
+h2 {
+    font-size: 24;
+    color: #3688e0;
+}
+.desc {
+    display: block;
+    background-color: rgba(28, 64, 247, 0.138);
+    padding: 0.9rem;
+    color: #23b1ee;
+    font-size: 16;
+    font-family: helvetica;
+    font-weight: bold;
+}
+.download {
+    color: #63fff2;
+    font-size: 24;
+    font-family: helvetica;
+    font-weight: bolder;
+}
+.about1 {
+    color:#3685e0;
+    font-family: monospace;
+    font-size: larger;
+    font-weight: lighter;
+}
+.pagebar {
+    display:block;
+    background-color:rgba(53, 28, 247, 0.138);
+    padding: 0.3rem;
+}
