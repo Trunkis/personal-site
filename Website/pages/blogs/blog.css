@@ -1,0 +1,35 @@
+body {
+    background-color: cadetblue;
+    text-align: center;
+    font-family: helvetica;
+    color: white;
+    padding: 0.5rem;
+}
+h1 {
+    display: block;
+    background-color: rgba(28, 247, 192, 0.497);
+    padding: 0.1rem;
+    font-size: 32;
+}
+.pagebar {
+    display: block;
+    background-color: rgba(28, 247, 192, 0.497);
+    padding: 0.25rem;
+    font-weight: bold;
+}
+.title {
+        display: block;
+        background-color:rgba(28, 247, 192, 0.497);
+        color: #ffffff;
+        border-radius: 25%;
+        padding: 0.1rem;
+ }    
+.desc {
+    display: block;
+    background-color:rgba(28, 247, 192, 0.497);
+    padding: 0.9rem;
+    color: rgba(255, 255, 255, 0.99);
+    font-size: 20;
+    font-family: helvetica;
+    font-weight: bold;
+}
