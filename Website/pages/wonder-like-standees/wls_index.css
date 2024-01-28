@@ -1,0 +1,46 @@
+body {
+    background-color: #f3ca26e4;
+    font-family:helvetica;
+    text-align: center;
+}
+h1 {
+    display: block;
+    background-color: rgba(54, 54, 54, 0.138);
+    padding: 0.1rem;
+    font-size: 32;
+    color: #ffffff;
+}
+h3 {
+    font-size: 16;
+    color: rgb(255, 255, 255);
+}
+h2 {
+    font-size: 24;
+    color: #ffffff;
+}
+.desc {
+    display: block;
+    background-color: rgba(52, 52, 52, 0.138);
+    padding: 0.9rem;
+    color: #ffffff;
+    font-size: 16;
+    font-family: helvetica;
+    font-weight: bold;
+}
+.download {
+    color: #ffffff;
+    font-size: 24;
+    font-family: helvetica;
+    font-weight: bolder;
+}
+.about1 {
+    color:#ffffff;
+    font-family: monospace;
+    font-size: larger;
+    font-weight: lighter;
+}
+.pagebar {
+    display:block;
+    background-color:rgba(56, 56, 56, 0.138);
+    padding: 0.3rem;
+}
