@@ -1,0 +1,11 @@
+body {
+    background-color: darkslategray;
+    font-family: 'Courier New', Courier, monospace;
+    color: cadetblue;
+    text-align: center;
+}
+h1 {
+    display: block;
+    background-color: darkslateblue;
+    padding: 0.25rem;
+}
