@@ -1,11 +1,15 @@
 body {
-    background-color: darkslategray;
+    background-color: rgb(16, 16, 16);
     font-family: 'Courier New', Courier, monospace;
-    color: cadetblue;
+    color: rgb(180, 15, 0);
     text-align: center;
 }
 h1 {
     display: block;
-    background-color: darkslateblue;
+    background-color: rgb(34, 34, 34);
     padding: 0.25rem;
+}
+.about1 {
+    font-size: 20;
+    font-weight: bold;
 }
