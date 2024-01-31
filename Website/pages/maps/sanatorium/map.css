@@ -13,3 +13,11 @@ h1 {
     font-size: 20;
     font-weight: bold;
 }
+a {
+    color: rgb(255, 0, 0);
+    text-decoration: solid;
+}
+a:hover {
+    color: rgb(145, 39, 0);
+    text-decoration: solid;
+}

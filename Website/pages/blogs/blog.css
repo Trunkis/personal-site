@@ -33,3 +33,11 @@ h1 {
     font-family: helvetica;
     font-weight: bold;
 }
+a {
+    color: rgb(0, 93, 222);
+    text-decoration: solid;
+}
+a:hover {
+    color: rgb(38, 0, 114);
+    text-decoration: solid;
+}

@@ -44,3 +44,10 @@ h2 {
     background-color:rgba(53, 28, 247, 0.138);
     padding: 0.3rem;
 }
+a {
+    color: cyan;
+    text-decoration: dotted;
+}
+a:hover {
+    color: rgb(0, 81, 181);
+}

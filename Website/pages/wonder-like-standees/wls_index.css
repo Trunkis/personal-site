@@ -44,3 +44,11 @@ h2 {
     background-color:rgba(56, 56, 56, 0.138);
     padding: 0.3rem;
 }
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: solid;
+}
+a:hover {
+    color: rgb(206, 206, 206);
+    text-decoration: solid;
+}
