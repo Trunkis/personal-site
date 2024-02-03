@@ -9,6 +9,12 @@ h1 {
     background-color: rgb(34, 34, 34);
     padding: 0.25rem;
 }
+h3 {
+    display: block;
+    background-color:rgb(34, 34, 34);
+    padding: 0.15rem;
+    color: rgb(218, 16, 16);
+}
 .about1 {
     font-size: 20;
     font-weight: bold;
