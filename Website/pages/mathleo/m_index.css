@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    background-color: rgb(255, 245, 232);
+}
+a {
+    text-decoration: none;
+    color: rgb(84, 84, 84);
+}
+a:hover {
+    text-decoration: none;
+    color: rgb(156, 156, 156);
+}
+h1 {
+    font-size: xx-large;
+}
+.download {
+    font-size: xx-large;
+}
