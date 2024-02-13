@@ -4,6 +4,10 @@ body {
     font-family: helvetica;
     color: white;
     padding: 0.5rem;
+@font-face {
+    font-family: Minecraft;
+    src: url('Minecraft.otf');
+}
 }
 h1 {
     display: block;
@@ -30,7 +34,7 @@ h1 {
     padding: 0.9rem;
     color: rgba(255, 255, 255, 0.99);
     font-size: 20;
-    font-family: helvetica;
+    font-family: Minecraft;
     font-weight: bold;
 }
 a {

@@ -2,6 +2,10 @@ body {
     text-align: center;
     background-color: rgb(24, 0, 9);
     font-family: helvetica;
+    @font-face {
+        font-family: Minecraft;
+        src: url('Minecraft.otf');
+    }
 }
 h1 {
     display: block;
@@ -31,7 +35,7 @@ h2 {
     padding: 0.9rem;
     color: #ee2392;
     font-size: 16;
-    font-family: helvetica;
+    font-family: Minecraft;
     font-weight: bold;
 }
 .download {

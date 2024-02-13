@@ -2,6 +2,10 @@ body {
     text-align: center;
     background-color: rgb(0, 12, 24);
     font-family: helvetica;
+    @font-face {
+        font-family: Minecraft;
+        src: url('Minecraft.otf');
+    }
 }
 h1 {
     display: block;
