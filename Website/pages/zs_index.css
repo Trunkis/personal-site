@@ -1,11 +1,11 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url('https://trunkis.github.io/personal-site/Website/assets/Minecraft.otf');
+}
 body {
     text-align: center;
     background-color: rgb(24, 0, 9);
     font-family: helvetica;
-    @font-face {
-        font-family: Minecraft;
-        src: url('https://trunkis.github.io/personal-site/Website/assets/Minecraft.otf');
-    }
 }
 h1 {
     display: block;
@@ -35,11 +35,8 @@ h2 {
     padding: 0.9rem;
     color: #ee2392;
     font-size: 16;
-    @font-face {
-    font-family: Minecraft;
+    font-family: 'Minecraft';
     font-weight: bold;
-        src: url('https://trunkis.github.io/personal-site/Website/assets/Minecraft.otf');
-    }
 }
 .download {
     color: #ff63c8;
