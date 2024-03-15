@@ -4,7 +4,7 @@ body {
     font-family: helvetica;
     @font-face {
         font-family: Minecraft;
-        src: url('Minecraft.otf');
+        src: url('https://trunkis.github.io/personal-site/Website/assets/Minecraft.otf');
     }
 }
 h1 {
