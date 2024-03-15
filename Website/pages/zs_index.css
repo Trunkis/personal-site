@@ -1,6 +1,8 @@
 @font-face {
     font-family: 'Minecraft';
-    src: url('https://trunkis.github.io/personal-site/Website/assets/Minecraft.otf') format('truetype');
+    src: url('https://trunkis.github.io/personal-site/Website/assets/Minecraft.otf') format('opentype');
+    font-style: normal;
+    font-weight: normal;
 }
 body {
     text-align: center;
