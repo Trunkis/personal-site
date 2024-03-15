@@ -4,6 +4,13 @@
     font-style: normal;
     font-weight: normal;
 }
+@font-face {
+    font-family: 'Minecraft';
+    src: url('https://trunkis.github.io/personal-site/Website/assets/Minecraft-Bold.otf') format('opentype');
+    font-style: normal;
+    font-weight: bold;
+}
+
 body {
     text-align: center;
     background-color: rgb(24, 0, 9);
