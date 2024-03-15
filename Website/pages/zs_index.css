@@ -35,10 +35,9 @@ h2 {
     padding: 0.9rem;
     color: #ee2392;
     font-size: 16;
+    @font-face {
     font-family: Minecraft;
     font-weight: bold;
-    @font-face {
-        font-family: Minecraft;
         src: url('https://trunkis.github.io/personal-site/Website/assets/Minecraft.otf');
     }
 }
