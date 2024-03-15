@@ -1,13 +1,22 @@
+@font-face {
+    font-family: 'Minecraft';
+    src: url('assets/Minecraft.otf') format('opentype');
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: 'Minecraft';
+    src: url('assets/Minecraft-Bold.otf') format('opentype');
+    font-style: normal;
+    font-weight: bold;
+}
+
 body {
     background-color: cadetblue;
     text-align: center;
     font-family: helvetica;
     color: white;
     padding: 0.5rem;
-@font-face {
-    font-family: Minecraft;
-    src: url('https://trunkis.github.io/personal-site/Website/assets/Minecraft.otf');
-}
 }
 h1 {
     display: block;
@@ -34,7 +43,7 @@ h1 {
     padding: 0.9rem;
     color: rgba(255, 255, 255, 0.99);
     font-size: 20;
-    font-family: Minecraft;
+    font-family: 'Minecraft', Helvetica;
     font-weight: bold;
 }
 a {
