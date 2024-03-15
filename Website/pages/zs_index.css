@@ -44,7 +44,7 @@ h2 {
     padding: 0.9rem;
     color: #ee2392;
     font-size: 16;
-    font-family: 'Minecraft';
+    font-family: 'Minecraft', Helvetica;
     font-weight: bold
 }
 .download {
